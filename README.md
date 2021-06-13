@@ -1,2 +1,2 @@
 # Web study
- Web study practicing
+ Django Web
